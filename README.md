@@ -8,5 +8,5 @@ The project is a dashboard on sales of games in certain countries and around the
 ```
 pip install dash
 pip install plotly
-ip install pandas 
+pip install pandas 
 ```
